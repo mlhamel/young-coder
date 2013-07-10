@@ -25,8 +25,8 @@ Nos forces
 Notre objectif
 **************
 
-Nous souhaiterions en tant que parents frères et sœeurs, passionés et développeur inscrire cette intiative dans la durée afin d'offrir
-une alternative citoyenne et qu'on trouve cool à tous les minots du monde. 
+Nous souhaiterions en tant que parents frères et sœurs, passionés et développeur inscrire cette intiative dans la durée afin d'offrir
+une alternative citoyenne et qu'on trouve cool à pour tous les enfants du monde. 
 
 Nos croyons aussi dans le logiciel libre comme un modèle de collaboration et nous pensons qu'il n'y a pas meilleure méthode que la pratique pour transmettre ces valeurs. 
 
